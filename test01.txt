@@ -1,4 +1,8 @@
 ttt
 ttt
 ttt
+<<<<<<< HEAD
 xxx
+=======
+yyy
+>>>>>>> test file modified 3
